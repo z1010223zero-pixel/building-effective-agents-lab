@@ -1,0 +1,6 @@
+target/
+sandbox/fixed.py
+sandbox/__pycache__/
+*.class
+.idea/
+*.iml
